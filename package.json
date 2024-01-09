@@ -1,0 +1,20 @@
+{
+  "name": "piedra_papel_tijera",
+  "version": "1.0.0",
+  "description": "Clasico juego de Piedra, papel y Tijeras.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "Diego Chiapa",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.0.11"
+  }
+}
