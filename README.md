@@ -1,4 +1,4 @@
-# Stone, Paper and Scissors
+# Rock, Paper and Scissors
 
 ## Clasico juego de Piedra, papel y Tijeras
 
